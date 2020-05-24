@@ -1,75 +1,18 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
+People are by nature social creatures.  These past few months of having to isolate and distance yourself from others has been extremely difficult, both physically and mentally.  In today’s world, communication and social contact are a huge part of daily life, larger than they have ever been before. This situation happened so quickly, and it may continue indefinitely. We believe that one can abide by the ‘new normal’ and still maintain social contact by using Vox of Life. 
 
-[travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
-[travis-url]: https://travis-ci.org/nestjs/nest
-[linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
-[linux-url]: https://travis-ci.org/nestjs/nest
-  
-  <p align="center">A progressive <a href="http://nodejs.org" target="blank">Node.js</a> framework for building efficient and scalable server-side applications, heavily inspired by <a href="https://angular.io" target="blank">Angular</a>.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/dm/@nestjs/core.svg" alt="NPM Downloads" /></a>
-<a href="https://travis-ci.org/nestjs/nest"><img src="https://api.travis-ci.org/nestjs/nest.svg?branch=master" alt="Travis" /></a>
-<a href="https://travis-ci.org/nestjs/nest"><img src="https://img.shields.io/travis/nestjs/nest/master.svg?label=linux" alt="Linux" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#5" alt="Coverage" /></a>
-<a href="https://gitter.im/nestjs/nestjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge"><img src="https://badges.gitter.im/nestjs/nestjs.svg" alt="Gitter" /></a>
-<a href="https://opencollective.com/nest#backer"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec"><img src="https://img.shields.io/badge/Donate-PayPal-dc3d53.svg"/></a>
-  <a href="https://twitter.com/nestframework"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+In Latin, the word ‘vox’ means ‘voice’. Vox of Life strives to be the ‘voice’ that can be used to initiate, maintain and communicate with others in a safe, controlled environment by the use of  the Vox of Life app. The Vox of Life is an opportunity to socialize with others with the same interests, hobbies in you choose, or with someone else who may just need to talk and hear another human voice. 
 
-## Description
+## Inspiration
+Vox of Life was inspired after noticing heavy the toll self-isolation was putting on the mental health of friends and closed ones. Social distancing and self-isolation don't have to mean loneliness and silence. VOL's on the mission to encourage people to have meaningful social interactions, while still practicing safe social distancing. We enable this by pairing different walks of life to each other through just a voice call and simply by the time they both are available.
 
-Vox For Life matching and scheduling automation app built in [Nest](https://github.com/nestjs/nest).
+## Built
+To rapidly execute on this mission, the proof of concept initially was "pretotyped" with a combination of traditional software engineering frameworks (NodeJS/Nest) and even no-code tools (Zapier, Airtable, Wix). We used NestJS to build our matching algorithm and backend server, and used the no code tools to build our frontend. The first prototype was complete in the first half of a weekend, and the private beta started the very next day.  A lot was learned from our testers and the project went through multiple iterations over the course of the trial very quickly.
 
-## Installation
+## Challenges
+Initially, VOL calls only worked over the web on desktops. Multiple testers provided feedback to make it also accessible over their mobile devices. In less than a week's time, the testers were able to dial-in to their calls. 
 
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-  Nest is [MIT licensed](LICENSE).
+## Future
+### Nursing Homes
+Build relations with nursing homes, to allow the isolated elders to have one on one calls with volunteers
+### Slack 
+Integration for Slack, where users can have spontaneous one on one interactions with in their existing communities
