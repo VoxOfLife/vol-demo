@@ -1,3 +1,5 @@
+#Vox of Life
+
 People are by nature social creatures.  These past few months of having to isolate and distance yourself from others has been extremely difficult, both physically and mentally.  In today’s world, communication and social contact are a huge part of daily life, larger than they have ever been before. This situation happened so quickly, and it may continue indefinitely. We believe that one can abide by the ‘new normal’ and still maintain social contact by using Vox of Life. 
 
 In Latin, the word ‘vox’ means ‘voice’. Vox of Life strives to be the ‘voice’ that can be used to initiate, maintain and communicate with others in a safe, controlled environment by the use of  the Vox of Life app. The Vox of Life is an opportunity to socialize with others with the same interests, hobbies in you choose, or with someone else who may just need to talk and hear another human voice. 
