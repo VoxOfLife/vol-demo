@@ -1,4 +1,4 @@
-#Vox of Life
+# Vox of Life
 
 People are by nature social creatures.  These past few months of having to isolate and distance yourself from others has been extremely difficult, both physically and mentally.  In today’s world, communication and social contact are a huge part of daily life, larger than they have ever been before. This situation happened so quickly, and it may continue indefinitely. We believe that one can abide by the ‘new normal’ and still maintain social contact by using Vox of Life. 
 
