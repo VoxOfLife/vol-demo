@@ -34,7 +34,7 @@
     "airtable": "^0.8.1",
     "awesome-phonenumber": "^2.31.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
     "reflect-metadata": "^0.1.13",
